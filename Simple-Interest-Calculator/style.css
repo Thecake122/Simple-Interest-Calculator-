@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color:black;
+    font-family: Arial;
+    
+}  
+
+
+
+h1 {
+    color: grey;
+    font-family: verdana;
+    position: relative;
+}
+
+
+
+#footer {
+    position: absolute;
+    font-size: 15px;
+    right:auto;
+    top: 336px;
+
+    
+    
+}
+
+
+.maindiv {
+    color: black;
+    background-color: white;
+    padding: 20px;
+    display: table;
+    border-radius: 25px;
+    margin: auto;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 12px;
+    line-height: 1.5vw;
+    text-indent: 17px;
+    width: 300px;
+    height: 300px;
+}
+
+
+
+
+
